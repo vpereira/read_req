@@ -1,0 +1,227 @@
+# CAVS 17.2
+# GCM Decrypt with keysize 128 test information for OpenSSL_AES_SSSE3_64
+# Generated on Tue Sep 16 12:28:22 2014
+
+
+
+[Keylen = 128]
+[IVlen = 96]
+[PTlen = 0]
+[AADlen = 0]
+[Taglen = 128]
+
+Count = 0
+Key = 0411349201e8678093ac17600a53d11a
+IV = 9f7c869c3c8b58dabaa53577
+CT = 
+AAD = 
+Tag = 27bd4454e60b236ef2fd1645750757e2
+
+Count = 1
+Key = 5ded748b21490a4d412ac3ec6807f637
+IV = 0b7ca863dcafa5b202772ebe
+CT = 
+AAD = 
+Tag = 7da93506c4543516475c6ee3d40b6d10
+
+Count = 2
+Key = f513eaf699f48552e142327de3c7514f
+IV = 0a8fb2f7fbfad59a3346b533
+CT = 
+AAD = 
+Tag = 2df5e141a728bcde89b3a72b549e540c
+
+Count = 3
+Key = 67a5420ae548c392a37f56844cb3ce05
+IV = a296ab26ccf1013fce83754c
+CT = 
+AAD = 
+Tag = 47351599e9b106f3b13fef009bf716d1
+
+Count = 4
+Key = 0e6ff8233263258e1f271ffb56315eba
+IV = ce2ef09d2f2c4607d91ae4dc
+CT = 
+AAD = 
+Tag = 39cc556d3d93c064639c9ac501832c0e
+
+Count = 5
+Key = c3cc6f5f8244fd469d48eba94f2161ed
+IV = 6033901ff425864e67c53197
+CT = 
+AAD = 
+Tag = 089ee707e888adfa65eb6f4e57a97859
+
+Count = 6
+Key = 3358722369d279da95599c27620bfba3
+IV = 2024f742ee7f41ec8ca6ac1c
+CT = 
+AAD = 
+Tag = 41c1e03c2556ec5ed14a5648d9c41d26
+
+Count = 7
+Key = aa3d3d558158eafe55b381598f33becd
+IV = 5b9d03e06baaf63ff80a0ddf
+CT = 
+AAD = 
+Tag = 5166e1a5ffd124385c93c9ada7020140
+
+Count = 8
+Key = 44cd89060938926cb6f75d9a4cac4d4f
+IV = 28e97aab44fdc1a1f7958130
+CT = 
+AAD = 
+Tag = 6e7d28662fa8036271c0bec753b5515f
+
+Count = 9
+Key = 0ac1f1ae971dc8143fdbed44d7c8aa28
+IV = 1639583fbc61b149775cbd74
+CT = 
+AAD = 
+Tag = 131f60e3441bd151c21fd6f2b1cdc487
+
+Count = 10
+Key = bbe91a59ba9ad51507aa198f95710725
+IV = e137bf10fb8c2731e543d8e6
+CT = 
+AAD = 
+Tag = e1eb806e3f64ad781740c213e1738344
+
+Count = 11
+Key = ed28ae1b7fcf26f79a392b1ed5258630
+IV = 875d20d4cfac22b34e824654
+CT = 
+AAD = 
+Tag = 684d97f83c0c56c1af46abec1d8281be
+
+Count = 12
+Key = ac35de7515d80e481faec494cdf21d91
+IV = c6eaae082650c1c6007dbaab
+CT = 
+AAD = 
+Tag = f247b447565ed422a292d449a8243709
+
+Count = 13
+Key = 8a05936fc196644abcb394b2a3a17a30
+IV = 0e197a6ecc9a590f329a4778
+CT = 
+AAD = 
+Tag = 0c7209be5e05a712d276b54a40a4db48
+
+Count = 14
+Key = 1fe5c1f3c1506e99db74d9b0df70d47a
+IV = 2598e0434245caf4ef51fdab
+CT = 
+AAD = 
+Tag = 93418c090c548ae384f0208ed453df7a
+
+[Keylen = 128]
+[IVlen = 96]
+[PTlen = 0]
+[AADlen = 0]
+[Taglen = 120]
+
+Count = 0
+Key = 2d09a1e6168f068972f06e2326becf88
+IV = ea12bc041df0d7407229472f
+CT = 
+AAD = 
+Tag = b71c485bdad299c0fa6a6a69b2ed38
+
+Count = 1
+Key = 5dabea1a444126187cab9476987c79b6
+IV = 03d932a006cee9ab7cce4ee9
+CT = 
+AAD = 
+Tag = f55c8413e6acb15b73c26ed8691fe6
+
+Count = 2
+Key = 7291a7a2d122fa60b3b8641e15d87f07
+IV = c9a55b1d93b54e961006fc60
+CT = 
+AAD = 
+Tag = 89eac79271d63679dc651477b62b5d
+
+Count = 3
+Key = e69efe05578e98908ffa838a88769036
+IV = 6d6c358f747368b5ff7145dd
+CT = 
+AAD = 
+Tag = ac2f80a5adc0eade268dfc7d4e9b5b
+
+Count = 4
+Key = 7fb000ebf28259a6db74b1fc8e12671c
+IV = 3e43d0d98b2283c657a63fe9
+CT = 
+AAD = 
+Tag = 4c43bd2df50192d3de7c11ded96239
+
+Count = 5
+Key = 1c1bcda5aed2613091080be6984f281b
+IV = e8dee1d54bad3058283a7596
+CT = 
+AAD = 
+Tag = 6ac1960e5e2f48399a9b54a04fe609
+
+Count = 6
+Key = 7dc5e70f8a17e56719e84d4208099ecb
+IV = ca4e6b1221a13eee92d05045
+CT = 
+AAD = 
+Tag = d30aff083bfdf8288a74227a88e489
+
+Count = 7
+Key = 0253f43732c51a3160ed3aff7cd0642b
+IV = 9754c5536d35445b8fa3bea4
+CT = 
+AAD = 
+Tag = 7a446d6ba3cf25ea9fc73fcda00bc8
+
+Count = 8
+Key = f2ce5f0515fce61848f8c32f2e5f5cb1
+IV = 6f1cc09192c5417671d895d6
+CT = 
+AAD = 
+Tag = 2242dfac18256b9022406d7a5f4bb3
+
+Count = 9
+Key = b28c8b9368adb8422e5103011e89bf0e
+IV = 81c8eb162a92f179fcf971cb
+CT = 
+AAD = 
+Tag = 9a6b75bd354603ea8677eec7106aff
+
+Count = 10
+Key = 9d3af550f4cbc56e865fa5aef2b69fea
+IV = 411c4ab87aae10f2c4db9b06
+CT = 
+AAD = 
+Tag = 6c7eb6c0ebdf208eb11ac670b2c72b
+
+Count = 11
+Key = f50f41404f5fd5ced29cf27200d5237f
+IV = a3c62a96fc6918a7f44b7ddb
+CT = 
+AAD = 
+Tag = d70e8f26fbf644999e58657eb055c4
+
+Count = 12
+Key = 8e4fbfbf87a1e5669cc97d4174bc906e
+IV = 0d7a818d9c3ed7ee1a451d2e
+CT = 
+AAD = 
+Tag = e16759f251fb44db2943b335a371fe
+
+Count = 13
+Key = f1c0300d2ee8cb707dfc9e218e320071
+IV = 5f4286b86590cadb9de2a7bd
+CT = 
+AAD = 
+Tag = af60a2bb7b16e2cd09aff9fc916bc0
+
+Count = 14
+Key = 944e7da9feaff2f6350d43cd0affbf78
+IV = 98c51a1b4ad32cb1e049af73
+CT = 
+AAD = 
+Tag = cf5efce09a07fdb5eae60bc95721a4
